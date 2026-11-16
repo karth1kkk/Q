@@ -1,4 +1,4 @@
-# Q:Table Relay 🍽️
+# Q: Table Relay 🍽️
 
 A two-sided marketplace that lets diners skip restaurant queues by paying verified "queue runners" to hold their table and pre-order their food.
 
